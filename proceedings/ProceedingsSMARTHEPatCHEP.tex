@@ -10,7 +10,7 @@
 %%%\documentclass[option]{webofc}
 %%% "twocolumn" for typesetting an article in two columns format (default one column)
 %
-\documentclass{webofc}
+\documentclass{epj-woc-latex/webofc}
 \usepackage[varg]{txfonts}   % Web of Conferences font
 %
 % Put here some packages required or/and some personnal commands
@@ -18,45 +18,48 @@
 %
 \begin{document}
 %
-\title{Insert your title here}
+\title{The SMARTHEP European Training Network}
 %
 % subtitle is optionnal
 %
 %%%\subtitle{Do you have a subtitle?\\ If so, write it here}
 
 \author{\firstname{James Andrew} \lastname{Gooding}\inst{1}\fnsep\thanks{\email{jamie.gooding@cern.ch}} \and
-        \firstname{Second author} \lastname{Second author}\inst{2}\fnsep\thanks{\email{Mail address for second
+        \firstname{Caterina} \lastname{Doglioni}\inst{2}\fnsep\thanks{\email{Mail address for second
              author if necessary}} \and
-        \firstname{Third author} \lastname{Third author}\inst{3}\fnsep\thanks{\email{Mail address for last
+        \firstname{Pratik} \lastname{Jawahar}\inst{2}\fnsep\thanks{\email{Mail address for last
              author if necessary}}
         % etc.
 }
 
-\institute{Fakult\"at Physik, Technische Universit\"at Dortmund, Germany
+\institute{Fakult\"at Physik, Technische Universit\"at Dortmund, Dortmund, Germany
 \and
-           the second here 
-\and
-           Last address
+           The University of Manchester, Manchester, United Kingdom
           }
 
 \abstract{%
-  Insert your english abstract here.
+\textbf{S}ynergies between \textbf{MA}chine learning, \textbf{R}eal-\textbf{T}ime analysis and \textbf{H}ybrid architectures for efficient \textbf{E}vent \textbf{P}rocessing and decision making (SMARTHEP) is a European Training Network with the aim of training a new generation of Early Stage Researchers to advance real-time decision-making, effectively leading to data-collection and analysis becoming synonymous.
+
+SMARTHEP will bring together scientists from the four major LHC collaborations which have been driving the development of real-time analysis (RTA) and key specialists from computer science and industry. By solving concrete problems as a community, SMARTHEP will bring forward a more widespread use of RTA techniques, enabling future HEP discoveries and generating impact in industry.
+The students will contribute to European growth, leveraging their hands-on experience machine learning and accelerators towards concrete commercial deliverables in fields that can most profit from RTA, such as transport, manufacturing, and finance.
+
+This contribution presents the training and outreach plan for the network, as well as some of its early results, and is intended as an opportunity for further collaboration and feedback from the CHEP community.
 }
 %
 \maketitle
 %
 
+\include{sections/introduction}
 
-\section{Introduction}
-\label{intro}
-Your text comes here. Separate text sections with
-\section{Section title}
-\label{sec-1}
-For bibliography use \cite{RefJ}
-\subsection{Subsection title}
-\label{sec-2}
-Don't forget to give each section, subsection, subsubsection, and
-paragraph a unique label (see Sect.~\ref{sec-1}).
+\include{sections/network}
+
+\include{sections/rta}
+
+\include{sections/esrs}
+
+\include{sections/outcomes}
+
+\include{sections/conclusion}
 
 % BibTeX or Biber users please use (the style is already called in the class, ensure that the "woc.bst" style is in your local directory)
 % \bibliography{name or your bibliography database}
