@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  11 MAY 2023 10:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  11 MAY 2023 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -366,9 +366,7 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count283
 \l__pdf_internal_box=\box60
 )
-(./build/ProceedingsSMARTHEPatCHEP.aux (./sections/introduction.aux)
-(./sections/network.aux) (./sections/rta.aux) (./sections/esrs.aux)
-(./sections/outcomes.aux) (./sections/conclusion.aux))
+(./build/ProceedingsSMARTHEPatCHEP.aux)
 \openout1 = `build/ProceedingsSMARTHEPatCHEP.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 19.
@@ -495,68 +493,79 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Trying to load font information for T1+txss on input line 4
-9.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/t1txss.fd
 File: t1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 13.29996pt on input line 49.
+(Font)              scaled to size 13.29996pt on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <14> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 49.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 13.29996pt on input line 49.
+(Font)              scaled to size 13.29996pt on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 49.
+(Font)              scaled to size 11.39996pt on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <12> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 49.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 11.39996pt on input line 49.
+(Font)              scaled to size 11.39996pt on input line 47.
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 4
-9.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 4
-9.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 4
-9.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 4
-9.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 4
-9.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 49.
+(Font)              scaled to size 8.54997pt on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <9> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 49.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 8.54997pt on input line 49.
+(Font)              scaled to size 8.54997pt on input line 47.
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <9> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 49.
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 47.
 
-Underfull \hbox (badness 1127) in paragraph at lines 49--49
+Underfull \hbox (badness 1127) in paragraph at lines 47--47
 \T1/txr/bx/n/9 H\T1/txr/m/n/9 ybrid ar-chi-tec-tures for ef-fi-cient \T1/txr/bx
 /n/9 E\T1/txr/m/n/9 vent \T1/txr/bx/n/9 P\T1/txr/m/n/9 rocessing and de-ci-sion
  mak-ing
  []
 
+(./sections/introduction.tex
+LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 3.
+) (./sections/network.tex
+LaTeX Font Info:    Font shape `T1/txss/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 4.
+LaTeX Font Info:    Font shape `T1/txss/b/n' in size <10> not available
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
+(Font)              scaled to size 9.49997pt on input line 4.
+) (./sections/rta.tex
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -564,125 +573,34 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-\openout2 = `sections/introduction.aux'.
-
-
-(./sections/introduction.tex)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+(./sections/esrs.tex) (./sections/outcomes.tex) (./sections/conclusion.tex)
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[2
-
-]
-\openout2 = `sections/network.aux'.
-
- (./sections/network.tex
-LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 4.
-LaTeX Font Info:    Font shape `T1/txss/b/n' in size <10> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 9.49997pt on input line 4.
-)
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[3
-
-
-
-]
-\openout2 = `sections/rta.aux'.
-
- (./sections/rta.tex)
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[4
-
-
-
-]
-\openout2 = `sections/esrs.aux'.
-
- (./sections/esrs.tex)
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[5
-
-
-
-]
-\openout2 = `sections/outcomes.aux'.
-
- (./sections/outcomes.tex)
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[6
-
-
-
-]
-\openout2 = `sections/conclusion.aux'.
-
- (./sections/conclusion.tex)
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[7
-
-
-
-]
-LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 75.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[8
-
-
-] (./build/ProceedingsSMARTHEPatCHEP.aux (./sections/introduction.aux)
-(./sections/network.aux) (./sections/rta.aux) (./sections/esrs.aux)
-(./sections/outcomes.aux) (./sections/conclusion.aux)) ) 
+[2] (./build/ProceedingsSMARTHEPatCHEP.aux) ) 
 Here is how much of TeX's memory you used:
- 6953 strings out of 478268
- 109443 string characters out of 5846346
- 401603 words of memory out of 5000000
- 24970 multiletter control sequences out of 15000+600000
+ 6821 strings out of 478268
+ 104485 string characters out of 5846346
+ 402863 words of memory out of 5000000
+ 24862 multiletter control sequences out of 15000+600000
  534224 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,13n,76p,447b,356s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/202
-2/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fo
-nts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2022/texmf-dist/fonts/ty
-pe1/public/txfonts/rtxr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pub
-lic/txfonts/txsy.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvet
-ic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.
-pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
-local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on build/ProceedingsSMARTHEPatCHEP.pdf (8 pages, 58605 bytes).
+ 70i,13n,76p,646b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dis
+t/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/p
+ublic/txfonts/rtxmi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/
+txfonts/rtxr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts
+/txsy.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.p
+fb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/l
+ocal/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texli
+ve/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on build/ProceedingsSMARTHEPatCHEP.pdf (2 pages, 57840 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 47 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
