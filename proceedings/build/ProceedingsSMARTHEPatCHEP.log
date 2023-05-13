@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  11 MAY 2023 16:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  11 MAY 2023 17:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -560,11 +560,15 @@ LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 3.
 ) (./sections/network.tex
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 4.
+(Font)              scaled to size 9.49997pt on input line 19.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <10> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 4.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 9.49997pt on input line 4.
+(Font)              scaled to size 9.49997pt on input line 19.
+
+
+LaTeX Warning: Reference `sec-1' on page 1 undefined on input line 22.
+
 ) (./sections/rta.tex
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -573,34 +577,63 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-(./sections/esrs.tex) (./sections/outcomes.tex) (./sections/conclusion.tex)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 13.
+)
+(./sections/esrs.tex
+
+LaTeX Warning: Reference `esr-table' on page 2 undefined on input line 21.
+
+
+Overfull \hbox (27.85425pt too wide) in paragraph at lines 27--37
+ [][] 
+ []
+
+) (./sections/outcomes.tex
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[2] (./build/ProceedingsSMARTHEPatCHEP.aux) ) 
+[2]) (./sections/events.tex) (./sections/conclusion.tex)
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[3]
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[4] (./build/ProceedingsSMARTHEPatCHEP.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 6821 strings out of 478268
- 104485 string characters out of 5846346
- 402863 words of memory out of 5000000
- 24862 multiletter control sequences out of 15000+600000
- 534224 words of font info for 131 fonts, out of 8000000 for 9000
+ 6855 strings out of 478268
+ 104975 string characters out of 5846346
+ 404097 words of memory out of 5000000
+ 24890 multiletter control sequences out of 15000+600000
+ 537476 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,13n,76p,646b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dis
-t/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/p
-ublic/txfonts/rtxmi.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/
-txfonts/rtxr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/txfonts
-/txsy.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.p
-fb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/l
-ocal/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texli
-ve/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on build/ProceedingsSMARTHEPatCHEP.pdf (2 pages, 57840 bytes).
+ 70i,13n,76p,817b,381s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2022/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive
+/2022/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2022/t
+exmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2022/texmf-di
+st/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/font
+s/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1
+/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times
+/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.p
+fb>
+Output written on build/ProceedingsSMARTHEPatCHEP.pdf (4 pages, 72057 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 58 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
