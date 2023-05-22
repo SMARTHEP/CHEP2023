@@ -1,6 +1,10 @@
 .DS_STORE
 
 *.aux
+*.bbl
+*.blg
+*.bst
+*.cls
 *.fdb_latexmk
 *.fls
 *.log

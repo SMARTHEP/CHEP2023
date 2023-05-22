@@ -10,7 +10,7 @@
 %%%\documentclass[option]{webofc}
 %%% "twocolumn" for typesetting an article in two columns format (default one column)
 %
-\documentclass{epj-woc-latex/webofc}
+\documentclass{webofc}
 \usepackage[varg]{txfonts}   % Web of Conferences font
 %
 % Put here some packages required or/and some personnal commands
@@ -26,9 +26,10 @@
 
 \author{\firstname{James Andrew} \lastname{Gooding}\inst{1}\fnsep\thanks{\email{Jamie.Gooding@cern.ch}} \and
         \firstname{Caterina} \lastname{Doglioni}\inst{2}\fnsep\thanks{\email{Caterina.Doglioni@cern.ch}} \and
-        \firstname{Pratik} \lastname{Jawahar}\inst{2}\fnsep\thanks{\email{Pratik.Jawahar@cern.ch}}
-        % etc.
+        \firstname{Pratik} \lastname{Jawahar}\inst{2}\fnsep\thanks{\email{Pratik.Jawahar@cern.ch}} 
 }
+
+%\thanks{We acknowledge funding from the European Union Horizon 2020 research and innovation programme, call H2020-MSCA- ITN-2020, under Grant Agreement n. 956086}
 
 \institute{Fakult\"at Physik, Technische Universit\"at Dortmund, Dortmund, Germany
 \and
@@ -61,23 +62,8 @@ This contribution presents the training and outreach plan for the network, as we
 
 \input{sections/conclusion}
 
-% BibTeX or Biber users please use (the style is already called in the class, ensure that the "woc.bst" style is in your local directory)
-% \bibliography{name or your bibliography database}
-%
-% Non-BibTeX users please use
-%
-\begin{thebibliography}{}
-%
-% and use \bibitem to create references.
-%
-\bibitem{RefJ}
-% Format for Journal Reference
-Journal Author, Journal \textbf{Volume}, page numbers (year)
-% Format for books
-\bibitem{RefB}
-Book Author, \textit{Book title} (Publisher, place, year) page numbers
-% etc
-\end{thebibliography}
+\bibliography{references.bib}
+
 
 \end{document}
 
