@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  6 JUN 2023 14:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  6 JUN 2023 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -492,63 +492,63 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Trying to load font information for T1+txss on input line 4
-8.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/t1txss.fd
 File: t1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 13.29996pt on input line 48.
+(Font)              scaled to size 13.29996pt on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <14> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 48.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 13.29996pt on input line 48.
+(Font)              scaled to size 13.29996pt on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 48.
+(Font)              scaled to size 11.39996pt on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <12> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 48.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 11.39996pt on input line 48.
+(Font)              scaled to size 11.39996pt on input line 47.
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 4
-8.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 4
-8.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 4
-8.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 4
-8.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 4
-8.
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 48.
+(Font)              scaled to size 8.54997pt on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <9> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 48.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 8.54997pt on input line 48.
+(Font)              scaled to size 8.54997pt on input line 47.
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <9> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 48.
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 47.
 
-Underfull \hbox (badness 1127) in paragraph at lines 48--48
+Underfull \hbox (badness 1127) in paragraph at lines 47--47
 \T1/txr/bx/n/9 H\T1/txr/m/n/9 ybrid ar-chi-tec-tures for ef-fi-cient \T1/txr/bx
 /n/9 E\T1/txr/m/n/9 vent \T1/txr/bx/n/9 P\T1/txr/m/n/9 rocessing and de-ci-sion
  mak-ing
@@ -566,16 +566,28 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 2
+1.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/ts1txr.fd
+File: ts1txr.fd 2000/12/15 v3.1
+)
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 20.
+(Font)              scaled to size 9.49997pt on input line 28.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <10> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 20.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 9.49997pt on input line 20.
+(Font)              scaled to size 9.49997pt on input line 28.
 )
 (./sections/rta.tex
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[2]
 </Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/proceedings/figures/place
-holder.png, id=13, 532.99126pt x 357.335pt>
+holder.png, id=17, 532.99126pt x 357.335pt>
 File: /Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/proceedings/figures/
 placeholder.png Graphic file (type png)
 <use /Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/proceedings/figures/p
@@ -590,15 +602,16 @@ laceholder.png>
 Package pdftex.def Info: /Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/p
 roceedings/figures/placeholder.png  used on input line 27.
 (pdftex.def)             Requested size: 199.16928pt x 133.52592pt.
+LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 38.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[2]
-LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 38.
+[3 </Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/proceedings/figures/pl
+aceholder.png>]
 File: /Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/proceedings/figures/
 placeholder.png Graphic file (type png)
 <use /Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/proceedings/figures/p
@@ -606,14 +619,7 @@ laceholder.png>
 Package pdftex.def Info: /Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/p
 roceedings/figures/placeholder.png  used on input line 54.
 (pdftex.def)             Requested size: 199.16928pt x 133.52592pt.
-)
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[3 </Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/proceedings/figures/pl
-aceholder.png>] (./sections/esrs.tex
+) (./sections/esrs.tex
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -624,54 +630,59 @@ Overfull \hbox (115.75426pt too wide) in paragraph at lines 25--35
  [][] 
  []
 
-) (./sections/outcomes.tex
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+(./sections/outcomes.tex
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[5]) (./sections/events.tex
+[5]
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[6]
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
-4.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/ts1txr.fd
-File: ts1txr.fd 2000/12/15 v3.1
-))
-(./sections/conclusion.tex) (./build/ProceedingsSMARTHEPatCHEP.bbl
+[6]) (./sections/events.tex
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[7]
+[7]) (./sections/conclusion.tex) (./build/ProceedingsSMARTHEPatCHEP.bbl
 LaTeX Font Info:    Trying to load font information for T1+txtt on input line 9
 .
- (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/t1txtt.fd
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
-))
+)
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[8] (./build/ProceedingsSMARTHEPatCHEP.aux)
+[8])
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[9] (./build/ProceedingsSMARTHEPatCHEP.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6944 strings out of 478268
- 106943 string characters out of 5846346
- 404141 words of memory out of 5000000
- 24965 multiletter control sequences out of 15000+600000
+ 6967 strings out of 478268
+ 107400 string characters out of 5846346
+ 405253 words of memory out of 5000000
+ 24988 multiletter control sequences out of 15000+600000
  540114 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,13n,76p,823b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,13n,76p,823b,399s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2022/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive
 /2022/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2022/
@@ -682,11 +693,11 @@ e1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/
 helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/u
 tmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on build/ProceedingsSMARTHEPatCHEP.pdf (8 pages, 1892718 bytes).
+Output written on build/ProceedingsSMARTHEPatCHEP.pdf (9 pages, 1899399 bytes).
 
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 94 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  24 words of extra memory for PDF output out of 10000 (max. 10000000)
 
