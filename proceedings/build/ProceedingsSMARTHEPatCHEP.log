@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  21 MAY 2023 10:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.25)  6 JUN 2023 14:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -590,8 +590,6 @@ laceholder.png>
 Package pdftex.def Info: /Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/p
 roceedings/figures/placeholder.png  used on input line 27.
 (pdftex.def)             Requested size: 199.16928pt x 133.52592pt.
-LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 38.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -599,6 +597,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [2]
+LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 38.
 File: /Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/proceedings/figures/
 placeholder.png Graphic file (type png)
 <use /Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/proceedings/figures/p
@@ -620,18 +620,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [4]
-
-LaTeX Warning: Reference `esr-table' on page 5 undefined on input line 19.
-
-
 Overfull \hbox (115.75426pt too wide) in paragraph at lines 25--35
  [][] 
  []
 
 ) (./sections/outcomes.tex
-Underfull \vbox (badness 2261) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -668,17 +661,14 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [8] (./build/ProceedingsSMARTHEPatCHEP.aux)
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6945 strings out of 478268
- 106954 string characters out of 5846346
+ 6944 strings out of 478268
+ 106943 string characters out of 5846346
  404141 words of memory out of 5000000
- 24966 multiletter control sequences out of 15000+600000
+ 24965 multiletter control sequences out of 15000+600000
  540114 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,13n,76p,823b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -692,7 +682,7 @@ e1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/
 helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/u
 tmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on build/ProceedingsSMARTHEPatCHEP.pdf (8 pages, 1892970 bytes).
+Output written on build/ProceedingsSMARTHEPatCHEP.pdf (8 pages, 1892718 bytes).
 
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
