@@ -1,0 +1,64 @@
+\documentclass{smarthepnote}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{placeins}
+
+
+\title{SMARTHEP Whitepaper Title}
+\author{The SMARTHEP Network}
+\date{\today}
+
+% Here is the information that will be entered in the title page
+\DocAuthors{A.~Person \\ B.~Person \\ C.~Person}
+\DocEditors{ D.~Person \\ E.~Person}
+\DocCoordinators{F.~Person \\ G.~Person }
+\DeliverableNo{xxx-yyy-zzzz}
+\draftversion{0.1}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+    \textbf{S}ynergies between \textbf{MA}chine learning, \textbf{R}eal-\textbf{T}ime analysis and \textbf{H}ybrid architectures for efficient \textbf{E}vent \textbf{P}rocessing and decision making (SMARTHEP) is a European Training Network with the aim of training a new generation of Early Stage Researchers to advance real-time decision-making, effectively leading to data-collection and analysis becoming synonymous.
+
+    SMARTHEP will bring together scientists from the four major LHC collaborations which have been driving the development of real-time analysis (RTA) and key specialists from computer science and industry. By solving concrete problems as a community, SMARTHEP will bring forward a more widespread use of RTA techniques, enabling future HEP discoveries and generating impact in industry.
+    The students will contribute to European growth, leveraging their hands-on experience machine learning and accelerators towards concrete commercial deliverables in fields that can most profit from RTA, such as transport, manufacturing, and finance.
+    
+    This contribution presents the training and outreach plan for the network, as well as some of its early results, and is intended as an opportunity for further collaboration and feedback from the CHEP community.
+\end{abstract}
+
+% Make the review table at the bottom of the title page
+\vfill
+\makereviewtable
+\clearpage
+
+% Short documentes dont always need a Table of Content / Figures / Tables, so comment out what is not needed
+%\begingroup
+%\color{black}
+%\tableofcontents
+%\listoffigures
+%\listoftables
+%\endgroup
+%\pagebreak
+
+
+\input{sections/introduction}
+
+\input{sections/network}
+
+\input{sections/rta}
+
+\input{sections/esrs}
+
+\input{sections/outcomes}
+
+\input{sections/events}
+
+\input{sections/conclusion}
+
+\section*{Acknowledgements}
+We acknowledge funding from the European Union Horizon 2020 research and innovation programme, call H2020-MSCA- ITN-2020, under Grant Agreement n. 956086
+
+\bibliography{references.bib}
+\bibliographystyle{JHEP}
+
+\end{document}
