@@ -36,7 +36,7 @@ Typical computational resources consist of Central Processing Units (CPUs), proc
     % If not, use
     %\vspace*{5cm}       % Give the correct figure height in cm
     \includegraphics[width=\linewidth,clip]{/Users/jgooding/Documents/SMARTHEP/CHEP2023/CHEP2023/proceedings/figures/architectures-diagram.pdf}
-    \caption{Comparison of CPU, GPU and FPGA architectures.}
+    \caption{Comparison of CPU, GPU and FPGA architectures. A CPU is typically formed of several cores, each containing computational, control and cache resources, and a centralized cache, memory and input/output (IO) interface. GPUs are formed similarly, with centralized cache, memory and IO, and many multiprocessors; however, each multiprocessor contains a greater proportion of computational resources, which are themselves partitioned to perform tasks in parallel. FPGAs are structured in a radically different way, with memory and IO connected to many interlinked control blocks, each primarily formed of simpler logic gate arrangements and often accompanied by a small cache.}
     \label{architectures}       % Give a unique label
 \end{figure*}
 
