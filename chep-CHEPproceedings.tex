@@ -1,0 +1,84 @@
+%%%%%%%%%%%%%%%%%%%%%%% file template.tex %%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% This is a template file for Web of Conferences Journal
+%
+% Copy it to a new file with a new name and use it as the basis
+% for your article
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%% EDP Science %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%%%\documentclass[option]{webofc}
+%%% "twocolumn" for typesetting an article in two columns format (default one column)
+%
+\documentclass{webofc}
+\usepackage[varg]{txfonts}   % Web of Conferences font
+%
+% Put here some packages required or/and some personnal commands
+%
+\usepackage{multirow}
+\usepackage{lineno} % remove in final version
+\linenumbers        % remove in final version
+%
+\begin{document}
+%
+\title{The SMARTHEP European Training Network}
+%
+% subtitle is optional
+%
+%%%\subtitle{Do you have a subtitle?\\ If so, write it here}
+\author{\firstname{James Andrew} \lastname{Gooding}\inst{1}\fnsep\thanks{\email{Jamie.Gooding@cern.ch}} \and
+        \firstname{Author} \lastname{2}\inst{2}\fnsep\thanks{\email{a.2@cern.ch}} \and
+        \firstname{Author} \lastname{3}\inst{2}\fnsep\thanks{\email{a.3@cern.ch}} \and
+        \firstname{Author} \lastname{4}\inst{2}\fnsep\thanks{\email{a.4@cern.ch}} \and
+        \firstname{Author} \lastname{5}\inst{2}\fnsep\thanks{\email{a.5@cern.ch}} \and
+        \firstname{Author} \lastname{6}\inst{2}\fnsep\thanks{\email{a.6@cern.ch}} \and
+        \firstname{Author} \lastname{7}\inst{2}\fnsep\thanks{\email{a.7@cern.ch}}
+        } 
+
+\institute{Fakult\"at Physik, Technische Universit\"at Dortmund, Dortmund, Germany \and
+           Institute 2 \and
+           Institute 3 \and
+           Institute 4 \and
+           Institute 5 \and
+           Institute 6 \and
+           Institute 7 
+          }
+
+\abstract{%
+\textbf{S}ynergies between \textbf{MA}chine learning, \textbf{R}eal-\textbf{T}ime analysis and \textbf{H}ybrid architectures for efficient \textbf{E}vent \textbf{P}rocessing and decision-making (SMARTHEP) is a European Training Network, training a new generation of Early Stage Researchers (ESRs) to advance real-time decision-making, driving data-collection and analysis towards synonymity.\par
+
+SMARTHEP brings together scientists from major LHC collaborations at the frontiers of real-time analysis (RTA) and key specialists from computer science and industry. By solving concrete problems as a community, SMARTHEP will further the adoption of RTA techniques, enabling future High Energy Physics (HEP) discoveries and generating impact in industry.\par
+
+ESRs will contribute to European growth, leveraging their hands-on experience in machine learning and accelerators towards commercial deliverables in fields that can profit most from RTA, e.g. transport, manufacturing, and finance.\par
+
+This contribution presents the training and outreach plan for the network, and is intended as an opportunity for further collaboration and feedback from the CHEP community.
+}
+%
+\maketitle
+%
+
+\input{sections/introduction}
+
+\input{sections/network}
+
+\input{sections/rta}
+
+\input{sections/esrs}
+
+\input{sections/outcomes}
+
+\input{sections/events}
+
+\input{sections/conclusion}
+
+\section*{Acknowledgements}
+We acknowledge funding from the European Union Horizon 2020 research and innovation programme, call H2020-MSCA- ITN-2020, under Grant Agreement n. 956086
+
+\bibliography{references.bib}
+
+
+\end{document}
+
+% end of file template.tex
+
+<div id='footer'><table width='100%'><tr><td class='right'><a href='http://fusioninventory.org/'><span class='copyright'>FusionInventory 9.1+1.0 | copyleft <img src='/glpi/plugins/fusioninventory/pics/copyleft.png'/>  2010-2016 by FusionInventory Team</span></a></td></tr></table></div>
