@@ -2,10 +2,13 @@
 
 *.aux
 *.bbl
+*.bcf
 *.blg
 *.bst
 *.cls
 *.fdb_latexmk
 *.fls
 *.log
+*.out
+*.xml
 ./build

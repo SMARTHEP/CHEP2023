@@ -10,7 +10,6 @@ build/%.pdf: ./%.tex
 	latexmk -pdflatex -jobname=$(basename $@) $<
 
 .copyfiles: $(OUTPUTFILE)
-	cp $^ ../build
 	touch $^
 
 build:
